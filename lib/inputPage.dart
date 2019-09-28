@@ -14,7 +14,7 @@ const KLabelTextStyle = TextStyle(
 const KNumberLabelStyle = TextStyle(fontSize: 60, fontWeight: FontWeight.bold);
 
 enum GenderType {
-  male,
+  male ,
   female,
 }
 
