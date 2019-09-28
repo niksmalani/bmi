@@ -14,13 +14,13 @@ const KLabelTextStyle = TextStyle(
 const KNumberLabelStyle = TextStyle(fontSize: 60, fontWeight: FontWeight.bold);
 
 enum GenderType {
-  male ,
+  male,
   female,
 }
 
-int height = 150;
-int weight = 60;
-int age = 30;
+int height =150;
+int weight =60;
+int age =30;
 
 class InputPage extends StatefulWidget {
   @override
